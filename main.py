@@ -278,7 +278,7 @@ class Insta_Like:
             new_feed.click()
             time.sleep(random.uniform(4.0, 8.0))
             self.logger.info(f'{like_sum_count}번 좋아요를 누릅니다')
-
+ 
         except:
             self.logger.error('피드 클릭 실패')
 
