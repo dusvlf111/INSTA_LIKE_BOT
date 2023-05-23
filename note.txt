@@ -1,0 +1,3 @@
+replit.nix 에 패키지 설정
+pkgs.chromium
+pkgs.chromedriver
