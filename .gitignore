@@ -21,6 +21,15 @@ note.txt
 *.lock
 *.toml
 
+# replit
+note.txt
+.config
+.breakpoints
+poetry.lock
+pyproject.toml
+
+
+
 # Distribution / packaging
 .Python
 build/
