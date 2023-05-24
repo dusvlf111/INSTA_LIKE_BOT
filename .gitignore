@@ -16,7 +16,7 @@ logs/
 
 # replit
 note.txt
-.config
+.config/
 .breakpoints
 poetry.lock
 pyproject.toml
