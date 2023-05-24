@@ -15,11 +15,11 @@ logs/
 *.so 
 
 # replit
-note.txt/
+note.txt
 *.config/
-*.breakpoints/
-*.lock/
-*.toml/
+*.breakpoints
+*.lock
+*.toml
 
 # Distribution / packaging
 .Python
